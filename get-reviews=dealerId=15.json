@@ -1,0 +1,51 @@
+[{
+    "car_make": "Fiat",
+    "car_model": "Cronos",
+    "car_year": "2023",
+    "dealership": 15,
+    "name": "Matheus Alves",
+    "purchase": true,
+    "purchase_date": "2022-12-12",
+    "review": "This car is really great and the service was quite good",
+    "time": "2023-02-12T20:03:39.125955"
+  }, {
+    "car_make": "Audi",
+    "car_model": "A4",
+    "car_year": "2010",
+    "dealership": 15,
+    "name": "Matheus",
+    "purchase": true,
+    "purchase_date": "2022-12-12",
+    "review": "This car is really bad and the service was terrible",
+    "time": "2023-02-12T20:03:12.087490"
+  }, {
+    "car_make": "Audi",
+    "car_model": "A6",
+    "car_year": 2010,
+    "dealership": 15,
+    "id": 1,
+    "name": "Berkly Shepley",
+    "purchase": true,
+    "purchase_date": "07/11/2020",
+    "review": "Total grid-enabled service-desk"
+  }, {
+    "car_make": "Lexus",
+    "car_model": "IS F",
+    "car_year": 2009,
+    "dealership": 15,
+    "id": 37,
+    "name": "Albrecht Collen",
+    "purchase": true,
+    "purchase_date": "10/10/2020",
+    "review": "Pre-emptive heuristic solution"
+  }, {
+    "car_make": "Saturn",
+    "car_model": "L-Series",
+    "car_year": 2001,
+    "dealership": 15,
+    "id": 38,
+    "name": "Prudi Minchi",
+    "purchase": true,
+    "purchase_date": "01/06/2021",
+    "review": "Mandatory homogeneous groupware"
+  }]
